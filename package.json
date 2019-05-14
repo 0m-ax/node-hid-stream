@@ -15,19 +15,9 @@
     "test": "jasmine"
   },
   "dependencies": {
-    "node-hid": "^0.5.1",
+    "node-hid": "^0.7.8",
     "split": "^1.0.0",
     "underscore": "^1.8.3"
-  },
-  "devDependencies": {
-    "eslint": "^3.7.1",
-    "eslint-config-airbnb-base": "^8.0.0",
-    "eslint-plugin-import": "^2.0.1",
-    "istanbul": "^0.4.5",
-    "jasmine": "^2.5.2",
-    "nodemon": "^1.11.0",
-    "mockery": "^2.0.0",
-    "proxyquire": "^1.7.10"
   },
   "repository": {
     "type": "git",
